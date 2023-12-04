@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Greetings, I am Isaac Tovias and i love so much my little bubu <a href="https://github.com/AriDevK"> Ari🍓 </a>. I am a software development intern at Johnson Controls. My area of expertise is Web Development, which are web pages that enable users to input and manipulate data. 🖥️ I am curious and eager to learn new things and I am currently studying Japanese and Portuguese. 🌎 I aspire to enhance my abilities and knowledge in these languages and in web development. 💯 I appreciate your interest. 👏
+<p align="left">👋 Greetings, I am Isaac Tovias and i love so much my little bubu <a href="https://github.com/AriDevK"> Ari🍓 </a>. I am a Software Developer Engineer Jr at Comtodo. My area of expertise is Web Development, which are web pages that enable users to input and manipulate data. 🖥️ I am curious and eager to learn new things and I am currently studying Japanese and Portuguese. 🌎 I aspire to enhance my abilities and knowledge in these languages and in web development. 💯 I appreciate your interest. 👏
 
 In addition to being a web developer, I am also a fan of wrestling. I enjoy watching the matches of the WWE and other companies. 💪 My favorite wrestlers are Kenny Omega and Chris Jericho, because they are outstanding performers and have great charisma. 😎</p>
 
