@@ -13,7 +13,7 @@ In addition to being a web developer, I am also a fan of wrestling. I enjoy watc
 
 
 <p> After a full year away from coding, I'm back. Apparently all I needed was therapy, losing 15 kilograms, and meeting the mother of my first child to finally get my life together. </p>
-###
+
 
 <br clear="both">
 
