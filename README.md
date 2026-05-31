@@ -7,9 +7,8 @@
 ###
 
 <p align="left">👋 Greetings, I am Isaac Tovias 
-</a>. I am a Software Developer Engineer Jr at Comtodo. My area of expertise is Web Development, which are web pages that enable users to input and manipulate data. 🖥️ I am curious and eager to learn new things and I am currently studying Japanese and Portuguese. 🌎 I aspire to enhance my abilities and knowledge in these languages and in web development. 💯 I appreciate your interest. 👏
-
-In addition to being a web developer, I am also a fan of wrestling. I enjoy watching the matches of the WWE and other companies. 💪 My favorite wrestlers are Kenny Omega and Chris Jericho, because they are outstanding performers and have great charisma. 😎</p>
+</a>. I am a Software Development Supervisor. My area of expertise is Web Development, which are web pages that enable users to input and manipulate data. 🖥️ I am curious and eager to learn new things and I am currently studying Japanese and Portuguese. 🌎 I aspire to enhance my abilities and knowledge in these languages and in web development. 💯 I appreciate your interest. 👏
+ 😎</p>
 
 
 <p> After a full year away from coding, I'm back. Apparently all I needed was therapy, losing 15 kilograms, and meeting the mother of my first child to finally get my life together. </p>
