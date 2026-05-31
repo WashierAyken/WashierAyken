@@ -113,6 +113,6 @@ In addition to being a web developer, I am also a fan of wrestling. I enjoy watc
 
 
 
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=isaacpou4)
+
 
 
