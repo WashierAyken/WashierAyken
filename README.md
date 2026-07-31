@@ -11,7 +11,7 @@
  😎</p>
 
 
-<p> After a full year away from coding, I'm back. Apparently all I needed was therapy, losing 15 kilograms, and meeting the mother of my first child to finally get my life together. </p>
+<p> After a full year away from coding, I'm back. Apparently all I needed was therapy. </p>
 
 
 <br clear="both">
